@@ -4,7 +4,7 @@ This repository contains several Jupyter notebooks for Python practice and small
 
 ## Notebooks
 
-- [pythonFacil-basic-00-built-in.function.python.ipynb](pythonFacil-basic-00-FuncionsPython..ipynb)
+- [pythonFacil-basic-00-built-in.function.python.ipynb](pythonFacil-basic-00-built-in function-python)
 - [pythonFacil-basic-01-DataStructures.ipynb](pythonFacil-basic-01-DataStructures.ipynb)
 - [pythonFacil- basic-02-operators-if-loops-sol.ipynb](pythonFacil-%20basic-02-operators-if-loops-sol.ipynb)
 - [pythonFacil-basic-02-2-operators-if-loops.-sol.ipynb](pythonFacil-basic-02-2-operators-if-loops.-sol.ipynb)
