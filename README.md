@@ -7,8 +7,8 @@ This repository contains several Jupyter notebooks for Python practice and small
 - [pythonFacil- basic-sol.ipynb](pythonFacil-%20basic-sol.ipynb)
 - [pythonFacil-basic-2-sol.ipynb](pythonFacil-basic-2-sol.ipynb)
 - [pythonFacil-basic-DataStructures.ipynb](pythonFacil-basic-DataStructures.ipynb)
-- [pythonFacil-basic-FuncionsPython..ipynb](
-    
+- [pythonFacil-basic-FuncionsPython..ipynb](pythonFacil-basic-FuncionsPython..ipynb)
+
 ## Notebook summaries
 
 ### pythonFacil- basic-sol.ipynb
