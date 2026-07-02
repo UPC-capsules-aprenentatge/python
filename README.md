@@ -8,6 +8,7 @@ This repository contains several Jupyter notebooks for Python practice and small
 - [pythonFacil_basic-01-DataStructures.ipynb](pythonFacil_basic-01-DataStructures.ipynb)
 - [pythonFacil_basic-02-operators-if-loops-sol.ipynb](pythonFacil_basic-02-operators-if-loops-sol.ipynb)
 - [pythonFacil_basic-03-funcions-lambdas.ipynb](pythonFacil_basic-03-funcions-lambdas.ipynb)
+- [pythonFacil_basic-04-OOP.ipynb](pythonFacil_basic-04-OOP.ipynb)
 - [pythonFacil_projecte1.ipynb](pythonFacil_projecte1.ipynb)
 
 ## Notebook summaries
@@ -23,6 +24,9 @@ This notebook covers Python operators, conditionals, and loops with solved examp
 
 ### pythonFacil_basic-03-funcions-lambdas.ipynb
 This notebook explores advanced function concepts in Python, including lambda functions and functional programming patterns. It demonstrates how to write concise anonymous functions and use higher-order functions for elegant code solutions.
+
+### pythonFacil_basic-04-OOP.ipynb
+This notebook covers object-oriented programming in Python. It introduces classes, objects, methods, inheritance, and encapsulation, with examples that show how to structure code using OOP principles.
 
 ### pythonFacil_projecte1.ipynb
 This notebook is a small project that applies Python skills to a practical task. It demonstrates how to combine learned concepts in a project-style exercise, reinforcing problem solving and code structure.
